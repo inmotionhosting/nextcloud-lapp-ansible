@@ -1,0 +1,12 @@
+# Don't include anything by default
+*
+
+# Include these things
+!.gitignore
+!ansible.cfg
+!LICENSE
+!README.md
+!site*.yml
+!*-requirements.*
+!*.sample.yml
+!group_vars/*.yml
