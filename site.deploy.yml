@@ -110,4 +110,3 @@
     - role: inmotionhosting.php_fpm
     - role: inmotionhosting.letsencrypt
     - role: inmotionhosting.nextcloud
-    - role: inmotionhosting.redis
