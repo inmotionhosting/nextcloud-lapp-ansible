@@ -93,11 +93,11 @@ Files
 | ---- | ----------- |
 | [ansible.cfg] | The Ansible configuration defined for this playbook.
 | [inventory.sample.yml] | The sample inventory provided by this playbook.
-| [python-requirements.yml] | The Python dependencies required by this Playbook
+| [python-requirements.txt] | The Python dependencies required by this Playbook
 | [playbook-requirements.yml] | The Playbook dependencies required by this Playbook
 
-[ansible.cfg]: https://github.com/inmotionhosting/wordpress-ultrastack-ansible/blob/master/ansible.cfg
-[inventory.sample.yml]: https://github.com/inmotionhosting/wordpress-ultrastack-ansible/blob/master//inventory.sample.yml
-[python-requirements.yml]: https://github.com/inmotionhosting/wordpress-ultrastack-ansible/blob/master//python-requirements.yml
-[playbook-requirements.yml]: https://github.com/inmotionhosting/wordpress-ultrastack-ansible/blob/master/playbook-requirements.yml
+[ansible.cfg]: https://github.com/inmotionhosting/nextcloud-lapp-ansible/blob/master/ansible.cfg
+[inventory.sample.yml]: https://github.com/inmotionhosting/nextcloud-lapp-ansible/blob/master/inventory.sample.yml
+[python-requirements.txt]: https://github.com/inmotionhosting/nextcloud-lapp-ansible/blob/master/python-requirements.txt
+[playbook-requirements.yml]: https://github.com/inmotionhosting/nextcloud-lapp-ansible/blob/master/playbook-requirements.yml
 [virtualenv]: https://virtualenv.pypa.io/
